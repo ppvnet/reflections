@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+The system initializes empty Git repository by creating a .git file. This is required for future tracking of changes made in te files in that directory
+
